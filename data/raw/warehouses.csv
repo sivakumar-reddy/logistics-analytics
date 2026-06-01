@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,state
+WH-CHI,Chicago FC,Midwest,IL
+WH-DAL,Dallas FC,South,TX
+WH-ATL,Atlanta FC,Southeast,GA
+WH-LAX,Los Angeles FC,West,CA
+WH-NJ,New Jersey FC,Northeast,NJ

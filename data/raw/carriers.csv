@@ -1,0 +1,5 @@
+carrier_id,carrier_name,service_level,sla_days,base_cost
+CR-EXP,ExpressShip,Express,2,18.5
+CR-STD,StandardFreight,Standard,5,8.75
+CR-ECO,EconoPost,Economy,8,4.25
+CR-REG,RegionalCarrier,Standard,4,9.9
