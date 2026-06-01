@@ -211,7 +211,7 @@ I'm based in **St. Charles, IL** and open to relocation across the US, hybrid ro
 
 ## A Final Note On How This Was Built
 
-This dashboard was designed and refined through deliberate iteration — I went through three full polish passes, each focused on a different aspect (formatting, color, alignment), and used AI tools (Claude) the same way I'd use a senior reviewer: to challenge design choices, validate insights, and catch the details I missed. That's the AI-augmented workflow I bring to every analysis: human judgment in the driver's seat, AI as a force multiplier for speed and quality.
+This dashboard was designed and refined through deliberate iteration — I went through three full polish passes, each focused on a different aspect (formatting, color, alignment), and used AI tools the same way I'd use a senior reviewer: to challenge design choices, validate insights, and catch the details I missed. That's the AI-augmented workflow I bring to every analysis: human judgment in the driver's seat, AI as a force multiplier for speed and quality.
 
 ---
 
